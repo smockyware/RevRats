@@ -45,9 +45,6 @@ Learn real-world malware techniques through comprehensive, documented reverse en
 ## 🔒 Password
 -  Infected
 
-## About me
-Hello, i'm just a fourteen year old boy that's interested in malware I've starting this whole hacking thing ever since I was nine. When I was little I used to do "ping example.com" thinking I was hacking it 😂. I learned most of my skill by exploring over the internet and learning python scripting. When I grow older I hope to make it to something big like a big malware reverse engineering company or atleast something cool in cyber security. If someone sends you some type of file you suspect is dangerous just reach out to me in my discord community and we will continue on from there!!!
-
 ## 📝 License & Usage
 This repository is provided for educational and research purposes only. All materials are intended to improve cybersecurity defense capabilities. 
 Users assume full responsibility for proper handling and containment of any technical information contained herein.
